@@ -1,4 +1,5 @@
 # apache
 
-TODO: Creacion de un servidor web con APACHE
+TODO: Recetario para la creacion de un servidor web con APACHE
 
+Incluye el cookbook completo
